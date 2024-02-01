@@ -20,9 +20,9 @@ _Ágil_ -> entregas parciais, o cliente entende mais fácil devido as entregas
 
 _**Contextualização SCRUM**_
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * SCRUM/SPRINT -> Levantar requisitos, produzir, testar e validar
 
@@ -44,3 +44,17 @@ Os requisitos de software podem ser entendidos como as necessidades e expectativ
 
 _Resumindo, são as funcionalidades do software, ações que o software deve executar, possuindo características e condições próprias..._
 
+
+
+_**Regras de negócio**_
+
+Regras dentro da empresa que podem ser baseadas em leis, processos, etc...
+
+Em geral deve ter:
+
+* ter apenas uma função
+* ser completas
+* possíveis de mensurar e rastrear
+* estar em consonância com a legislação
+* estar atualizadas e sempre revisadas
+* refletir a política
