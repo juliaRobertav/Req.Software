@@ -16,9 +16,7 @@ podem ser tecnologicas, orçamento, tempo, segurança
 
 Premissas
 
-Hipóteses
-
-geralmente essas premissas são estudadas e definidas antes mesmo de começar um projeto.
+São como hipóteses, geralmente essas premissas são estudadas e definidas antes mesmo de começar um projeto.
 
 Atente-se que, antes de serem confirmadas, elas serão consideradas como um **risco**. Por exemplo: o seu projeto consiste em criar um novo programa, e seu tempo estimado é de uma semana, mas nada garante que um empecilho como uma queda de energia ou um bug. Neste caso a premissa assumida é que, mesmo com uma certa dúvida sobre a estimativa, ela será considerada verdadeira para efeitos de planejamento
 
