@@ -1,4 +1,4 @@
-# Lição 2
+# Pesquisas
 
 Vou fornecer informações sobre cada uma das técnicas de levantamento de requisitos listadas:
 
@@ -63,3 +63,27 @@ Vou fornecer informações sobre cada uma das técnicas de levantamento de requi
 1. **Definição:** Questionários são formulários estruturados que são distribuídos aos stakeholders para coletar informações sobre requisitos.
 2. **Características Principais:** Permitem coletar dados de uma grande amostra de stakeholders de forma eficiente. Podem ser administrados online ou em formato impresso.
 3. **Exemplos de Aplicação:** Uma empresa
+
+de software distribui um questionário online para seus clientes para coletar feedback sobre as funcionalidades existentes e solicitar sugestões para melhorias. 4. **Reflexão e Discussão:** Questionários são úteis para coletar uma grande quantidade de dados rapidamente, mas podem não capturar nuances ou fornecer insights detalhados sobre as necessidades dos usuários.
+
+#### j. Métodos Sistêmicos (JAD - Joint Application Design)
+
+1. **Definição:** JAD é uma técnica de levantamento de requisitos que envolve reuniões intensivas e colaborativas entre usuários, stakeholders e membros da equipe de desenvolvimento para definir requisitos e elaborar soluções.
+2. **Características Principais:** Envolve uma abordagem participativa e colaborativa para identificar e priorizar requisitos. As reuniões geralmente são conduzidas por um facilitador experiente.
+3. **Exemplos de Aplicação:** Uma equipe de desenvolvimento de software realiza uma série de sessões JAD com representantes de diferentes departamentos para definir os requisitos de um novo sistema de gerenciamento de projetos.
+4. **Reflexão e Discussão:** JAD é eficaz para reunir rapidamente as necessidades dos usuários e chegar a um consenso sobre os requisitos, mas pode ser intensivo em termos de tempo e recursos.
+
+#### Resumo de comparação entre as técnicas:
+
+* **Briefing:** Inicial e formal, fornece informações básicas.
+* **Orientado a ponto de vista:** Foco na perspectiva do usuário, imersão no ambiente do usuário.
+* **Etnografia:** Imersão profunda na cultura do usuário.
+* **Entrevista:** Coleta de informações através de conversas estruturadas.
+* **Brainstorming:** Geração de ideias criativas em grupo.
+* **Método Analítico:** Análise detalhada de documentos e dados existentes.
+* **Workshops:** Reuniões estruturadas para discutir e coletar requisitos.
+* **Prototipagem:** Criação rápida de versões preliminares para validação.
+* **Questionários:** Coleta de dados de uma grande amostra de stakeholders.
+* **Métodos Sistêmicos (JAD):** Reuniões intensivas e colaborativas para definir requisitos.
+
+Cada técnica tem suas próprias vantagens e desvantagens, e a escolha da técnica certa depende do contexto do projeto e das preferências das partes interessadas.
