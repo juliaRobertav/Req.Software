@@ -1,7 +1,5 @@
 # Pesquisas
 
-Vou fornecer informações sobre cada uma das técnicas de levantamento de requisitos listadas:
-
 #### a. Briefing
 
 1. **Definição:** Briefing é uma reunião inicial entre os membros da equipe de desenvolvimento e os stakeholders para discutir o escopo do projeto, os objetivos e as expectativas.
@@ -85,5 +83,3 @@ de software distribui um questionário online para seus clientes para coletar fe
 * **Prototipagem:** Criação rápida de versões preliminares para validação.
 * **Questionários:** Coleta de dados de uma grande amostra de stakeholders.
 * **Métodos Sistêmicos (JAD):** Reuniões intensivas e colaborativas para definir requisitos.
-
-Cada técnica tem suas próprias vantagens e desvantagens, e a escolha da técnica certa depende do contexto do projeto e das preferências das partes interessadas.
