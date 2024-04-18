@@ -1,4 +1,4 @@
-# Table of contents
+# Sumário
 
 * [Requisitos](README.md)
 * [Documentação](documentacao.md)
