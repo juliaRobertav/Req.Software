@@ -4,6 +4,10 @@ casos de uso - descreve as funcionalidades, o que vai acontecer naquele agrupame
 
 Não é preciso fazer caso de uso para todos os requisitos.
 
+Exemplo:
+
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 
 
 {% embed url="https://edisciplinas.usp.br/pluginfile.php/3720765/course/section/857581/Aula02_CasosDeUso.pdf" %}
